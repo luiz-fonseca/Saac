@@ -12,6 +12,6 @@ namespace Saacp.Models
         public string Nome { get; set; }
         public string Descricao { get; set; }
         public string Categoria { get; set; }
-        public byte Foto { get; set; }
+        public string Foto { get; set; }
     }
 }

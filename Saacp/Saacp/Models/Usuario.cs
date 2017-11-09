@@ -8,9 +8,9 @@ namespace Saacp.Models
 {
     public class Usuario
     {
-        public int Codigo { get; set; }
+        public string Codigo { get; set; }
         public string Nome { get; set; }
-        public byte Foto { get; set; }
+        public string Foto { get; set; }
         public DateTime DtNasci { get; set; }
         public bool Sexo {get; set;}
         public string Endereco { get; set; } 

@@ -9,9 +9,9 @@
       
     <Label HorizontalOptions="Center" Font="Large"  Text="SaaC" />
     <Label HorizontalOptions="Center" Text="Sistema Auxiliar de Apoio ao Concurseiro" />
-      
-    <Button VerticalOptions="CenterAndExpand"  Text="Facebook" BackgroundColor="Blue" TextColor="White"/>
-      
+
+    <Button VerticalOptions="CenterAndExpand"  Text="Facebook" BackgroundColor="Blue" TextColor="White"></Button>
+
   </StackLayout>
     
 </ContentPage>
